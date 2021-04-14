@@ -18,4 +18,4 @@ Response
 
 ### Help 
 
-To recieve help, join the <a href=""https://discord.gg/MwmnXNsjsj>discord</a>.
+To recieve help, join the <a href="https://discord.gg/MwmnXNsjsj">discord</a>.
